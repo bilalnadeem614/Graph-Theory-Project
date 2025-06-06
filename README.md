@@ -57,7 +57,7 @@ pip install networkx matplotlib
 
 ### Run the Script
 ```bash
-python analysis.py
+
 ```
 ## Author
-**Muhammad Talha** 
+**Muhammad Bilal Nadeem** 
