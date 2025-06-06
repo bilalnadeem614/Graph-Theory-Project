@@ -1,0 +1,25 @@
+Social networks model relationships between individuals as nodes and edges. 
+This project analyzes a friendship graph to study its structural properties. 
+Key tasks include graph construction, visualization, centrality analysis, community detection, and
+ evaluation of small-world characteristics. The goal is to uncover patterns of influence, connectivity, and 
+ community structures within the network.
+
+
+ Social networks help us understand how individuals are connected and interact within a group. 
+ In this project, a friendship graph is analyzed to examine patterns of relationships among people.
+  Each individual is represented as a node, and each friendship as an edge. 
+  The analysis covers the structure of the network, identifies key individuals, detects tightly connected communities, 
+  and checks if the network displays small-world behavior. Through this, we aim to gain meaningful insights into the dynamics of
+   the social group.
+
+
+Social networks model individuals relationships with others in a perticular group. Each individual is represented as a node, and each friendship as an edge.
+In this project, a friendship graph of CS-22 is analyzed to examine patterns of relationships among students of CS-22.
+Key tasks include graph construction, visualization, centrality analysis, community detection, and
+evaluation of small-world characteristics. Through this, we aim to gain meaningful insights into the dynamics of
+the social group.
+
+Final:
+"Social networks model individuals' relationships with others in a particular group. Each individual is represented as a node, and each friendship as an edge.
+In this project, a friendship graph of CS-22 is analyzed to examine patterns of relationships among students of that batch.
+Key tasks include graph construction, visualization, centrality analysis, community detection, and evaluation of small-world characteristics. Through this, we aim to gain meaningful insights into the dynamics of the social group."
